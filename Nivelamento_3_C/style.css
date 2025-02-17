@@ -1,0 +1,25 @@
+body {background-color: blueviolet;}
+.part01 { text-align: center;
+           font-size: 150%;
+           color: blue;
+}
+
+.part01 {border-color: brown;
+         border-style: outset;
+         border-width: 5px;
+        margin-left: 30%;
+        margin-right: 30%;
+        }
+        #imal {width: 30%;}
+        .fig01 {background-color: blue;
+                border-style: dashed;
+                border-color: aquamarine;
+                border-width: 5px;
+        }
+
+
+
+        .fig01 {margin-left: 35% 
+        
+        
+        }
